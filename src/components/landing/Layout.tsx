@@ -13,8 +13,8 @@ export default function Layout({ children }: LayoutProps) {
           direction="diagonal"
           speed={0.5}
           squareSize={40}
-          borderColor="#333"
-          hoverFillColor="#222"
+          borderColor="#2d1b4e"
+          hoverFillColor="#3b1f6b"
         />
       </div>
       <div className="relative z-20 h-full">
